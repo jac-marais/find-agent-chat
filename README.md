@@ -2,9 +2,7 @@
 
 An agent skill that finds local Claude Code, Codex, and Cursor chats and reads their recent messages.
 
-[![find-agent-chat in 45 seconds. Click to play the video with sound.](media/find-agent-chat.gif)](media/find-agent-chat.mp4)
-
-Click the animation to play the narrated video. The demo chats are synthetic.
+https://github.com/user-attachments/assets/3f5175a5-6e0c-4bbe-8fe9-851ba423062f
 
 It has two commands:
 
