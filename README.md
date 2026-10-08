@@ -2,7 +2,7 @@
 
 An agent skill that finds local Claude Code, Codex, and Cursor chats and reads their recent messages.
 
-https://github.com/user-attachments/assets/3f5175a5-6e0c-4bbe-8fe9-851ba423062f
+https://github.com/user-attachments/assets/fcb6edf7-9b30-4128-a68d-341f84a58e04
 
 It has two commands:
 
