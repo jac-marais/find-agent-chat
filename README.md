@@ -14,10 +14,11 @@ It has two commands:
 ## Layout
 
 ```
+LICENSE
 README.md
 media/
-  find-agent-chat.gif      # README animation, captioned
-  find-agent-chat.mp4      # the narrated explainer it links to
+  find-agent-chat.mp4      # the narrated explainer video shown above
+  find-agent-chat.gif      # a silent, captioned GIF of the same video
 skill/
   SKILL.md                 # skill entry point (name, description, usage)
   scripts/
@@ -53,3 +54,7 @@ python3 scripts/read_chat.py /path/to/session.jsonl --last 20
 ```bash
 cd skill/scripts && python3 -m unittest test_search_chats test_read_chat
 ```
+
+## License
+
+MIT. See [`LICENSE`](LICENSE).
