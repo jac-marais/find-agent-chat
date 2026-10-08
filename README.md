@@ -2,6 +2,10 @@
 
 An agent skill that finds local Claude Code, Codex, and Cursor chats and reads their recent messages.
 
+[![find-agent-chat in 45 seconds. Click to play the video with sound.](media/find-agent-chat.gif)](media/find-agent-chat.mp4)
+
+Click the animation to play the narrated video. The demo chats are synthetic.
+
 It has two commands:
 
 - `search_chats.py` finds a session by its title, agent name, or topic. It uses a local SQLite FTS5 index at `~/.cache/find-agent-chat/index.sqlite`.
@@ -13,6 +17,9 @@ It has two commands:
 
 ```
 README.md
+media/
+  find-agent-chat.gif      # README animation, captioned
+  find-agent-chat.mp4      # the narrated explainer it links to
 skill/
   SKILL.md                 # skill entry point (name, description, usage)
   scripts/
