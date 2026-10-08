@@ -16,9 +16,6 @@ It has two commands:
 ```
 LICENSE
 README.md
-media/
-  find-agent-chat.mp4      # the narrated explainer video shown above
-  find-agent-chat.gif      # a silent, captioned GIF of the same video
 skill/
   SKILL.md                 # skill entry point (name, description, usage)
   scripts/
